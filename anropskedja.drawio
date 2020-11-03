@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T15:02:23.225Z" agent="5.0 (Windows)" etag="4wW8Y9LxqEG8m0GJD4Z5" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T15:12:41.026Z" agent="5.0 (Windows)" etag="aEMffSviU1njCUh9bQgd" version="13.8.5" type="github">
   <diagram id="EGpCvtgzIB82jYAcrBPX" name="Page-1">
     <mxGraphModel dx="2408" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -261,7 +261,7 @@
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-72" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="1" source="iDw9l39Qgc664SsToHXu-75">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1350" y="760" as="targetPoint" />
+            <mxPoint x="1350" y="820" as="targetPoint" />
             <mxPoint x="1350" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
@@ -270,7 +270,7 @@
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-74" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;" edge="1" parent="1" source="iDw9l39Qgc664SsToHXu-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1005" y="760" as="targetPoint" />
+            <mxPoint x="1005" y="820" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1005" y="610" />
               <mxPoint x="1005" y="610" />
@@ -290,14 +290,14 @@
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-78" value="201 Created" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1" source="iDw9l39Qgc664SsToHXu-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1005" y="569" as="targetPoint" />
+            <mxPoint x="1170" y="569" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-79" value="Förskrivare" style="shape=actor;whiteSpace=wrap;html=1;rounded=1;shadow=1;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="880" y="440" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-80" value="Skapa förskrivning 1" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="550" width="90" height="20" as="geometry" />
+          <mxGeometry x="850" y="550" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-93" value="&lt;div&gt;Dublettkontroll OK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Förskrivning skapad&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="550" width="200" height="20" as="geometry" />
@@ -316,7 +316,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-97" value="Skapa förskrivning 1&lt;br&gt;(omsändning)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="620" width="90" height="20" as="geometry" />
+          <mxGeometry x="850" y="620" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-98" value="&lt;div&gt;Dubblettkontroll Ej OK&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="620" width="140" height="20" as="geometry" />
@@ -335,10 +335,44 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-102" value="Skapa förskrivning 2" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="890" y="680" width="90" height="20" as="geometry" />
+          <mxGeometry x="850" y="680" width="130" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iDw9l39Qgc664SsToHXu-103" value="&lt;div&gt;Dubblettkontroll OK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Förskrivning skapad&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1370" y="680" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iDw9l39Qgc664SsToHXu-106" value="???" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="560" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iDw9l39Qgc664SsToHXu-108" value="POST /MedicationRequest&lt;br&gt;X-Request-ID=&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;777e4...88888&lt;/span&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1005" y="740" as="sourcePoint" />
+            <mxPoint x="1240" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDw9l39Qgc664SsToHXu-110" value="Skapa förskrivning 3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="740" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iDw9l39Qgc664SsToHXu-112" value="???" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="730" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iDw9l39Qgc664SsToHXu-113" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1345" y="780" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iDw9l39Qgc664SsToHXu-114" value="POST /MedicationRequest&lt;br&gt;X-Request-ID=&lt;span class=&quot;ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;777e4...88888&lt;/span&gt;&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;" edge="1" parent="1" target="iDw9l39Qgc664SsToHXu-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1005" y="780" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDw9l39Qgc664SsToHXu-115" value="201 Created" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;exitX=0;exitY=0.95;" edge="1" parent="1" source="iDw9l39Qgc664SsToHXu-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1005" y="799" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iDw9l39Qgc664SsToHXu-116" value="Skapa förskrivning 3" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="780" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="iDw9l39Qgc664SsToHXu-117" value="&lt;div&gt;Dubblettkontroll OK&lt;br&gt;&lt;/div&gt;&lt;div&gt;Förskrivning skapad&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="780" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
